@@ -18,7 +18,6 @@ setup(
   download_url = 'https://github.com/ThomasNeve/pySldWrap/archive/v0.1.tar.gz',
   keywords = ['solidworks', 'wrapper'],
   install_requires=[            # I get to this in a second
-          'numpy',
           'pywin32',
           'pathlib'
       ],
