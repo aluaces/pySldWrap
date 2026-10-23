@@ -19,7 +19,6 @@ setup(
   keywords = ['solidworks', 'wrapper'],
   install_requires=[            # I get to this in a second
           'pywin32',
-          'pathlib'
       ],
   classifiers=[
     'License :: OSI Approved :: MIT License',
